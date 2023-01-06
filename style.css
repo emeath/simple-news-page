@@ -1,0 +1,63 @@
+
+#center-container {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+#topbar {
+    padding: 10px;
+}
+
+#logo {
+    float: left;
+}
+
+#logo img{
+    width: 50px;
+    height: 50px;
+}
+
+#navigation {
+    float: right;
+}
+
+#navigation li {
+    display: inline;
+    margin-left: 20px;
+}
+
+#accebility{
+    background-color: grey;
+    padding: 5px;
+}
+
+p{
+    size: 20px;
+}
+
+h1, h2 {
+    border: 0;
+    border-bottom: 8px;
+}
+
+h1 {
+    border-style: ridge;
+}
+
+h2 {
+    border-style: solid;
+    padding-bottom: 3px;
+}
+
+#my-carrousel {
+    width: 100px;
+    margin: 0 auto;
+}
+
+#my-carrousel b, #my-carrousel span {
+    font-size: 12px;
+}
+
+#my-carrousel span {
+    font-style: italic;
+}
