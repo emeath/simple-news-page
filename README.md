@@ -10,11 +10,11 @@ It is a study project practice.
 
 Normal/Extra large font size
 
-![Normal/Extra large font size](/readme-src/Peek 2023-01-06 20-58.gif)
+![Normal Extra large font size](/readme-src/20-58.gif)
 
 Dark/Light Theme
 
-![Dark/Light Theme](/readme-src/Peek 2023-01-06 20-55.gif)
+![Dark Light Theme](/readme-src/Peek 2023-01-06 20-55.gif)
 
 Personalized Carrousel
 
