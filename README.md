@@ -14,8 +14,8 @@ Normal/Extra large font size
 
 Dark/Light Theme
 
-![Dark Light Theme](/readme-src/Peek 2023-01-06 20-55.gif)
+![Dark Light Theme](/readme-src/20-55.gif)
 
 Personalized Carrousel
 
-![Personalized Carrousel](/readme-src/Peek 2023-01-06 20-54.gif)
+![Personalized Carrousel](/readme-src/20-54.gif)
